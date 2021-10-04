@@ -11,6 +11,6 @@ In general, the lower-level programming language you use the faster performance 
 The best way to measure performance is in passwords guessed per second. It's the computer's ability to generate strings and match them with the password to guess. The most powerful computers in the world can reach speeds of 1 billion passwords / second.
 
 These programs are not optimized enough for that kind of speed, but with a fast PC you can achieve 100 million / sec running the C++ program.
-## Credit
+## Credits
 
 - [@CyanCoding](https://github.com/CyanCoding/Brute-Force-Password-Cracker)
